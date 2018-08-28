@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Atlas",
+        "repositoryURL": "/Users/dangquochuy/Documents/Workspace/huydemi/Atlas",
+        "state": {
+          "branch": null,
+          "revision": "1c68c52cecaf9502a297fd5215cf81d962479cc0",
+          "version": "1.0.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
